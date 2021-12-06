@@ -1,3 +1,3 @@
-function cloocollect_ratings() {
+function collect_ratings() {
 
 }
