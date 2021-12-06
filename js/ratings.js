@@ -10,7 +10,9 @@ function collect_ratings() {
         ratings.sum += parseInt(element.value)*rating;
     });
     if (ratings.count !== 0) {
-        ratings.averge = ratings.sum / ratings.count; 
+        ratings.averge = ratings.sum / ratings.count;
+        
     }
+    return rating;
 }
 
