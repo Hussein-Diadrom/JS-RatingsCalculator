@@ -3,3 +3,5 @@ function collect_ratings() {
 
     let rating = 0; 
 }
+
+const elements = document.querySelectorAll(rating);
