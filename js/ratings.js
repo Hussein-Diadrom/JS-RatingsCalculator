@@ -1,0 +1,3 @@
+function cloocollect_ratings() {
+
+}
